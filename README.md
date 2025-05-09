@@ -49,7 +49,7 @@ Inspired by the desire for a more focused alternative to traditional launchers, 
 
 ### From Xcode:
 1. Open the project in **Xcode 15** or later.
-2. Ensure your Mac is running **macOS 14.0 or newer** (or the minimum version specified in the project settings).
+2. Ensure your Mac is running **macOS 13.5 or newer**
 3. Build and run the app.
 4. Configure your desired apps and settings via the menu bar icon > Preferences.
 5. Use the global hotkey or the menu bar icon to show/hide the launcher.
@@ -69,14 +69,6 @@ Inspired by the desire for a more focused alternative to traditional launchers, 
 
 ---
 
-# Requirements
-
-- macOS 14.0 or later (adjust if your project targets an earlier version).
-- Xcode 15 or later (for building from source).
-
----
-
 # Acknowledgements
 
 This application was developed with the assistance of Gemini, a large language model from Google.
-Your icon `icon_1024x1024.png` (assumed to be named `AppIconCustom` in Assets.xcassets) is used for the 'About' panel.
