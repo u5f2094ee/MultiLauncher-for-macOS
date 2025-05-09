@@ -1,6 +1,7 @@
 # MultiLauncher for macOS
 
-![MultiLauncher for macOS Screenshot](https://placehold.co/800x500/7c3aed/ffffff?text=MultiLauncher+Screenshot+Here)
+![Screenshot](https://github.com/user-attachments/assets/55f90ba1-7748-4070-bbee-6295da28f734)
+
 
 ---
 
